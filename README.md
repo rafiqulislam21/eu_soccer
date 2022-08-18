@@ -32,9 +32,3 @@ folder names and files:
 <br>
 ----------------------------------------------------
 <br>
-
- ## **Notes**:
- * It took around 4.5 hours to build this app for me, Maybe I took longer, the main reason behind this could be I am not in practice with flutter for the last few months. 
- * Another thing is UI is not perfectly created as like screenshots. Of course, I can build exact same UI. But I just wanted to focus on the code structure and logical things of the app.
- * I didn't add translations of the club details page. I just added it to the home page. 
- * There could be some bugs because I couldn't test the app from different devices but I am believe, I am able to fix all of them.
